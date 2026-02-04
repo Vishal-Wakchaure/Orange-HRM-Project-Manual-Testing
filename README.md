@@ -5,12 +5,12 @@ OrangeHRM Live web application.
 
 The project focuses mainly on Login and Register functionalities.
 
----
+----
 
 ## Project Name
 OrangeHRM Live – Manual Testing Project
 
----
+----
 
 ## Application Under Test
 https://www.orangehrmlive.com/
@@ -70,7 +70,7 @@ Contains complete test strategy including:
 - Entry and exit criteria
 - Roles and responsibilities
 
----
+----
 
 ## Testing Type
 
@@ -85,7 +85,7 @@ Contains complete test strategy including:
 - Negative Testing
 - Scenario based testing
 
----
+----
 
 ## Tools Used
 
